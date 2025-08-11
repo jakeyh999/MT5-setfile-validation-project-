@@ -1,0 +1,28 @@
+2025-07-06 18:27:06,353 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 18:27:06,360 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 18:27:06,372 - INFO - Downloading tick data for XAUUSD from 2024-12-22 00:00:00 to 2025-07-06 18:27:06.371944.
+2025-07-06 18:27:32,895 - INFO - Successfully downloaded 34868536 ticks for XAUUSD.
+2025-07-06 18:27:32,988 - INFO - MetaTrader5 shutdown successfully.
+2025-07-06 18:27:33,241 - INFO - INI file generated.
+2025-07-06 18:27:33,244 - INFO - [INI CONTENTS]
+[Tester]
+Expert=Experts\BWMeanReversion.ex5
+ExpertParameters=XAUUSD_M15_set_001.set
+Symbol=XAUUSD
+Period=M15
+Model=2
+StartDate=2025.01.01
+EndDate=2025.07.04
+Deposit=10000
+Currency=GBP
+Leverage=33
+ExecutionDelay=100
+Report=C:/EA_Validation_Project/test_reports/XAUUSD_M15_set_001.html
+ShutdownTerminal=true
+
+2025-07-06 18:27:33,248 - INFO - Launching MT5 with command: "C:/MT5_Backtest/terminal64.exe" /portable /config:C:/EA_Validation_Project/config/temp_test.ini
+2025-07-06 18:27:36,363 - INFO - MT5 test completed.
+2025-07-06 18:27:36,373 - INFO - Latest log file found: C:/MT5_Backtest/Tester/logs/20250706.log
+2025-07-06 18:27:36,386 - ERROR - INI file not loaded. Check MT5 logs for details.
+2025-07-06 18:27:36,387 - ERROR - Setfile not loaded. Check MT5 logs for details.
+2025-07-06 18:27:36,388 - INFO - MetaTrader5 shutdown successfully.

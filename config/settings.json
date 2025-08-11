@@ -1,0 +1,16 @@
+{
+    "MT5_PATH": "C:/MT5_Backtest/terminal64.exe",
+    "EA_NAME": "MQL5/Experts/BW_Mean_Reversion_V13.ex5",
+    "SYMBOL": "XAUUSD",
+    "TIMEFRAME": "M15",
+    "SETFILE_NAME": "XAUUSD_M15_set_001.set",
+    "FROM_DATE": "2025.01.01",
+    "OOS_END_DATE": "2025.07.04",
+    "DEPOSIT": 10000,
+    "LEVERAGE": 33,
+    "CURRENCY": "GBP",
+    "DELAY": 100,
+    "INI_PATH": "C:/EA_Validation_Project/config/temp_test.ini",
+    "SETFILE_PATH": "C:/EA_Validation_Project/setfiles/XAUUSD_M15_set_001.set",
+    "REPORT_DIR": "C:/EA_Validation_Project/test_reports"
+}

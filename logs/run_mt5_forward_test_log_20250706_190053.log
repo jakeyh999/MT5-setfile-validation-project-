@@ -1,0 +1,12 @@
+2025-07-06 19:00:58,367 - INFO - MetaTrader5 initialized successfully on retry 1.
+2025-07-06 19:00:58,393 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 19:00:58,411 - INFO - Downloading tick data for XAUUSD from 2024-12-22 00:00:00 to 2025-07-06 19:00:58.411733.
+2025-07-06 19:01:21,728 - ERROR - Failed to download tick data: -10002 - IPC recv failed
+2025-07-06 19:58:52,360 - WARNING - Retry 1: Failed to download tick data. Retrying in 5 seconds...
+2025-07-06 19:59:05,267 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 19:59:05,288 - INFO - Downloading tick data for XAUUSD from 2024-12-22 00:00:00 to 2025-07-06 19:59:05.288420.
+2025-07-06 19:59:23,997 - ERROR - Failed to download tick data: -10002 - IPC recv failed
+2025-07-06 20:03:30,592 - WARNING - Retry 2: Failed to download tick data. Retrying in 5 seconds...
+2025-07-06 20:03:41,874 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 20:03:41,906 - INFO - Downloading tick data for XAUUSD from 2024-12-22 00:00:00 to 2025-07-06 20:03:41.906068.
+2025-07-06 20:04:01,042 - ERROR - Failed to download tick data: -10002 - IPC recv failed

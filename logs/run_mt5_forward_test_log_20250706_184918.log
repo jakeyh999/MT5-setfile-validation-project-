@@ -1,0 +1,9 @@
+2025-07-06 18:49:23,719 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 18:49:23,730 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 18:49:23,739 - INFO - Downloading tick data for XAUUSD from 2024-12-22 00:00:00 to 2025-07-06 18:49:23.739512.
+2025-07-06 18:49:51,416 - INFO - Successfully downloaded 34868536 ticks for XAUUSD.
+2025-07-06 18:49:51,477 - INFO - MetaTrader5 shutdown successfully.
+2025-07-06 18:49:51,809 - INFO - MetaTrader5 shutdown initiated.
+2025-07-06 18:50:01,950 - WARNING - Forcefully terminated MetaTrader5 process.
+2025-07-06 18:50:02,048 - ERROR - MetaTrader5 process did not terminate. Manual intervention may be required.
+2025-07-06 18:50:02,278 - ERROR - Failed to initialize MetaTrader5: (-10001, 'IPC send failed')

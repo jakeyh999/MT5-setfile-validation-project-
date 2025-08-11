@@ -1,0 +1,848 @@
+[2025-07-06 22:17:23,366] INFO: Logging to c:\EA_Validation_Project\logs\filter_and_prepare_setfiles_20250706_221723.log
+[2025-07-06 22:17:23,372] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_001.set
+[2025-07-06 22:17:23,374] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_002.set
+[2025-07-06 22:17:23,374] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_003.set
+[2025-07-06 22:17:23,375] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_004.set
+[2025-07-06 22:17:23,377] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_005.set
+[2025-07-06 22:17:23,378] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_006.set
+[2025-07-06 22:17:23,379] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_007.set
+[2025-07-06 22:17:23,382] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_008.set
+[2025-07-06 22:17:23,386] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_009.set
+[2025-07-06 22:17:23,421] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_010.set
+[2025-07-06 22:17:23,423] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_011.set
+[2025-07-06 22:17:23,425] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_012.set
+[2025-07-06 22:17:23,429] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_013.set
+[2025-07-06 22:17:23,431] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_014.set
+[2025-07-06 22:17:23,440] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_015.set
+[2025-07-06 22:17:23,454] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_016.set
+[2025-07-06 22:17:23,499] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_017.set
+[2025-07-06 22:17:23,501] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_018.set
+[2025-07-06 22:17:23,501] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_019.set
+[2025-07-06 22:17:23,503] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_020.set
+[2025-07-06 22:17:23,504] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_021.set
+[2025-07-06 22:17:23,505] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_022.set
+[2025-07-06 22:17:23,506] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_023.set
+[2025-07-06 22:17:23,507] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_024.set
+[2025-07-06 22:17:23,508] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_025.set
+[2025-07-06 22:17:23,510] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_026.set
+[2025-07-06 22:17:23,511] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_027.set
+[2025-07-06 22:17:23,512] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_028.set
+[2025-07-06 22:17:23,513] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_029.set
+[2025-07-06 22:17:23,514] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_030.set
+[2025-07-06 22:17:23,516] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_031.set
+[2025-07-06 22:17:23,517] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_032.set
+[2025-07-06 22:17:23,525] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_033.set
+[2025-07-06 22:17:23,545] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_034.set
+[2025-07-06 22:17:23,594] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_035.set
+[2025-07-06 22:17:23,595] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_036.set
+[2025-07-06 22:17:23,596] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_037.set
+[2025-07-06 22:17:23,596] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_038.set
+[2025-07-06 22:17:23,598] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_039.set
+[2025-07-06 22:17:23,599] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_040.set
+[2025-07-06 22:17:23,600] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_041.set
+[2025-07-06 22:17:23,600] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_042.set
+[2025-07-06 22:17:23,601] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_043.set
+[2025-07-06 22:17:23,602] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_044.set
+[2025-07-06 22:17:23,603] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_045.set
+[2025-07-06 22:17:23,604] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_046.set
+[2025-07-06 22:17:23,606] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_047.set
+[2025-07-06 22:17:23,607] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_048.set
+[2025-07-06 22:17:23,608] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_049.set
+[2025-07-06 22:17:23,609] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_050.set
+[2025-07-06 22:17:23,609] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_051.set
+[2025-07-06 22:17:23,613] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_052.set
+[2025-07-06 22:17:23,614] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_053.set
+[2025-07-06 22:17:23,618] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_054.set
+[2025-07-06 22:17:23,650] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_055.set
+[2025-07-06 22:17:23,651] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_056.set
+[2025-07-06 22:17:23,756] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_057.set
+[2025-07-06 22:17:23,757] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_058.set
+[2025-07-06 22:17:23,759] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_059.set
+[2025-07-06 22:17:23,760] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_060.set
+[2025-07-06 22:17:23,761] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_061.set
+[2025-07-06 22:17:23,761] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_062.set
+[2025-07-06 22:17:23,762] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_063.set
+[2025-07-06 22:17:23,764] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_064.set
+[2025-07-06 22:17:23,765] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_065.set
+[2025-07-06 22:17:23,766] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_066.set
+[2025-07-06 22:17:23,766] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_067.set
+[2025-07-06 22:17:23,774] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_068.set
+[2025-07-06 22:17:23,785] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_069.set
+[2025-07-06 22:17:23,809] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_070.set
+[2025-07-06 22:17:23,812] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_071.set
+[2025-07-06 22:17:23,813] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_072.set
+[2025-07-06 22:17:23,815] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_073.set
+[2025-07-06 22:17:23,817] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_074.set
+[2025-07-06 22:17:23,817] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_075.set
+[2025-07-06 22:17:23,818] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_076.set
+[2025-07-06 22:17:23,821] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_077.set
+[2025-07-06 22:17:23,823] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_078.set
+[2025-07-06 22:17:23,826] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_079.set
+[2025-07-06 22:17:23,827] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_080.set
+[2025-07-06 22:17:23,828] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_081.set
+[2025-07-06 22:17:23,828] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_082.set
+[2025-07-06 22:17:23,829] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_083.set
+[2025-07-06 22:17:23,834] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_084.set
+[2025-07-06 22:17:23,836] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_085.set
+[2025-07-06 22:17:23,838] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_086.set
+[2025-07-06 22:17:23,881] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_087.set
+[2025-07-06 22:17:23,929] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_088.set
+[2025-07-06 22:17:23,930] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_089.set
+[2025-07-06 22:17:23,931] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_090.set
+[2025-07-06 22:17:23,932] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_091.set
+[2025-07-06 22:17:23,933] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_092.set
+[2025-07-06 22:17:23,935] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_093.set
+[2025-07-06 22:17:23,936] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_094.set
+[2025-07-06 22:17:23,937] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_095.set
+[2025-07-06 22:17:23,937] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_096.set
+[2025-07-06 22:17:23,939] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_097.set
+[2025-07-06 22:17:23,942] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_098.set
+[2025-07-06 22:17:23,943] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_099.set
+[2025-07-06 22:17:23,944] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_100.set
+[2025-07-06 22:17:23,946] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_101.set
+[2025-07-06 22:17:23,947] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_102.set
+[2025-07-06 22:17:23,948] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_103.set
+[2025-07-06 22:17:23,950] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_104.set
+[2025-07-06 22:17:23,951] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_105.set
+[2025-07-06 22:17:23,953] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_106.set
+[2025-07-06 22:17:23,954] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_107.set
+[2025-07-06 22:17:23,960] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_108.set
+[2025-07-06 22:17:24,010] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_109.set
+[2025-07-06 22:17:24,012] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_110.set
+[2025-07-06 22:17:24,013] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_111.set
+[2025-07-06 22:17:24,014] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_112.set
+[2025-07-06 22:17:24,015] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_113.set
+[2025-07-06 22:17:24,016] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_114.set
+[2025-07-06 22:17:24,019] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_115.set
+[2025-07-06 22:17:24,021] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_116.set
+[2025-07-06 22:17:24,023] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_117.set
+[2025-07-06 22:17:24,024] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_118.set
+[2025-07-06 22:17:24,056] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_119.set
+[2025-07-06 22:17:24,099] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_120.set
+[2025-07-06 22:17:24,101] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_121.set
+[2025-07-06 22:17:24,101] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_122.set
+[2025-07-06 22:17:24,102] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_123.set
+[2025-07-06 22:17:24,103] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_124.set
+[2025-07-06 22:17:24,104] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_125.set
+[2025-07-06 22:17:24,104] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_126.set
+[2025-07-06 22:17:24,105] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_127.set
+[2025-07-06 22:17:24,106] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_128.set
+[2025-07-06 22:17:24,107] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_129.set
+[2025-07-06 22:17:24,109] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_130.set
+[2025-07-06 22:17:24,118] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_131.set
+[2025-07-06 22:17:24,119] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_132.set
+[2025-07-06 22:17:24,263] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_133.set
+[2025-07-06 22:17:24,265] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_134.set
+[2025-07-06 22:17:24,266] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_135.set
+[2025-07-06 22:17:24,267] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_136.set
+[2025-07-06 22:17:24,271] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_137.set
+[2025-07-06 22:17:24,273] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_138.set
+[2025-07-06 22:17:24,274] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_139.set
+[2025-07-06 22:17:24,275] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_140.set
+[2025-07-06 22:17:24,275] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_141.set
+[2025-07-06 22:17:24,276] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_142.set
+[2025-07-06 22:17:24,276] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_143.set
+[2025-07-06 22:17:24,279] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_144.set
+[2025-07-06 22:17:24,280] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_145.set
+[2025-07-06 22:17:24,280] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_146.set
+[2025-07-06 22:17:24,281] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_147.set
+[2025-07-06 22:17:24,282] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_148.set
+[2025-07-06 22:17:24,282] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_149.set
+[2025-07-06 22:17:24,283] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_150.set
+[2025-07-06 22:17:24,287] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_151.set
+[2025-07-06 22:17:24,298] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_152.set
+[2025-07-06 22:17:24,301] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_153.set
+[2025-07-06 22:17:24,304] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_154.set
+[2025-07-06 22:17:24,319] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_155.set
+[2025-07-06 22:17:24,351] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_156.set
+[2025-07-06 22:17:24,368] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_157.set
+[2025-07-06 22:17:24,369] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_158.set
+[2025-07-06 22:17:24,448] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_159.set
+[2025-07-06 22:17:24,449] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_160.set
+[2025-07-06 22:17:24,450] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_161.set
+[2025-07-06 22:17:24,451] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_162.set
+[2025-07-06 22:17:24,451] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_163.set
+[2025-07-06 22:17:24,452] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_164.set
+[2025-07-06 22:17:24,453] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_165.set
+[2025-07-06 22:17:24,453] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_166.set
+[2025-07-06 22:17:24,457] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_167.set
+[2025-07-06 22:17:24,461] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_168.set
+[2025-07-06 22:17:24,462] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_169.set
+[2025-07-06 22:17:24,492] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_170.set
+[2025-07-06 22:17:24,493] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_171.set
+[2025-07-06 22:17:24,494] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_172.set
+[2025-07-06 22:17:24,494] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_173.set
+[2025-07-06 22:17:24,495] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_174.set
+[2025-07-06 22:17:24,495] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_175.set
+[2025-07-06 22:17:24,496] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_176.set
+[2025-07-06 22:17:24,497] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_177.set
+[2025-07-06 22:17:24,498] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_178.set
+[2025-07-06 22:17:24,499] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_179.set
+[2025-07-06 22:17:24,500] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_180.set
+[2025-07-06 22:17:24,501] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_181.set
+[2025-07-06 22:17:24,501] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_182.set
+[2025-07-06 22:17:24,502] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_183.set
+[2025-07-06 22:17:24,504] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_184.set
+[2025-07-06 22:17:24,507] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_185.set
+[2025-07-06 22:17:24,507] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_186.set
+[2025-07-06 22:17:24,508] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_187.set
+[2025-07-06 22:17:24,510] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_188.set
+[2025-07-06 22:17:24,511] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_189.set
+[2025-07-06 22:17:24,512] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_190.set
+[2025-07-06 22:17:24,512] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_191.set
+[2025-07-06 22:17:24,513] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_192.set
+[2025-07-06 22:17:24,514] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_193.set
+[2025-07-06 22:17:24,515] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_194.set
+[2025-07-06 22:17:24,516] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_195.set
+[2025-07-06 22:17:24,548] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_196.set
+[2025-07-06 22:17:24,588] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_197.set
+[2025-07-06 22:17:24,589] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_198.set
+[2025-07-06 22:17:24,590] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_199.set
+[2025-07-06 22:17:24,590] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_200.set
+[2025-07-06 22:17:24,590] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_201.set
+[2025-07-06 22:17:24,591] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_202.set
+[2025-07-06 22:17:24,592] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_203.set
+[2025-07-06 22:17:24,594] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_204.set
+[2025-07-06 22:17:24,595] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_205.set
+[2025-07-06 22:17:24,596] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_206.set
+[2025-07-06 22:17:24,597] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_207.set
+[2025-07-06 22:17:24,598] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_208.set
+[2025-07-06 22:17:24,599] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_209.set
+[2025-07-06 22:17:24,604] INFO: Deleted old setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_210.set
+[2025-07-06 22:17:24,644] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\BW_Mean_Reversion_V13.set
+[2025-07-06 22:17:24,646] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_001.set
+[2025-07-06 22:17:24,647] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_002.set
+[2025-07-06 22:17:24,648] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_003.set
+[2025-07-06 22:17:24,649] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_004.set
+[2025-07-06 22:17:24,649] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_005.set
+[2025-07-06 22:17:24,650] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_006.set
+[2025-07-06 22:17:24,653] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_007.set
+[2025-07-06 22:17:24,653] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_008.set
+[2025-07-06 22:17:24,654] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_009.set
+[2025-07-06 22:17:24,655] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_010.set
+[2025-07-06 22:17:24,655] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_011.set
+[2025-07-06 22:17:24,656] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_012.set
+[2025-07-06 22:17:24,658] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_013.set
+[2025-07-06 22:17:24,659] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_014.set
+[2025-07-06 22:17:24,660] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_015.set
+[2025-07-06 22:17:24,660] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_016.set
+[2025-07-06 22:17:24,661] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_017.set
+[2025-07-06 22:17:24,662] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_018.set
+[2025-07-06 22:17:24,663] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_019.set
+[2025-07-06 22:17:24,668] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_020.set
+[2025-07-06 22:17:24,669] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_021.set
+[2025-07-06 22:17:24,670] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_022.set
+[2025-07-06 22:17:24,671] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_023.set
+[2025-07-06 22:17:24,672] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_024.set
+[2025-07-06 22:17:24,672] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_025.set
+[2025-07-06 22:17:24,676] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_026.set
+[2025-07-06 22:17:24,678] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_027.set
+[2025-07-06 22:17:24,679] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_028.set
+[2025-07-06 22:17:24,680] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_029.set
+[2025-07-06 22:17:24,681] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_030.set
+[2025-07-06 22:17:24,709] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_031.set
+[2025-07-06 22:17:24,715] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_032.set
+[2025-07-06 22:17:24,716] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_033.set
+[2025-07-06 22:17:24,717] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_034.set
+[2025-07-06 22:17:24,718] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_035.set
+[2025-07-06 22:17:24,719] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_036.set
+[2025-07-06 22:17:24,719] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_037.set
+[2025-07-06 22:17:24,720] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_038.set
+[2025-07-06 22:17:24,722] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_039.set
+[2025-07-06 22:17:24,723] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_040.set
+[2025-07-06 22:17:24,724] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_041.set
+[2025-07-06 22:17:24,724] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_042.set
+[2025-07-06 22:17:24,726] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_043.set
+[2025-07-06 22:17:24,727] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_044.set
+[2025-07-06 22:17:24,728] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_045.set
+[2025-07-06 22:17:24,729] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_046.set
+[2025-07-06 22:17:24,729] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_047.set
+[2025-07-06 22:17:24,730] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_048.set
+[2025-07-06 22:17:24,730] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_049.set
+[2025-07-06 22:17:24,731] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_050.set
+[2025-07-06 22:17:24,732] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_051.set
+[2025-07-06 22:17:24,792] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_052.set
+[2025-07-06 22:17:24,794] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_053.set
+[2025-07-06 22:17:24,797] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_054.set
+[2025-07-06 22:17:24,840] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_055.set
+[2025-07-06 22:17:24,842] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_056.set
+[2025-07-06 22:17:24,843] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_057.set
+[2025-07-06 22:17:24,843] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_058.set
+[2025-07-06 22:17:24,844] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_059.set
+[2025-07-06 22:17:24,845] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_060.set
+[2025-07-06 22:17:24,846] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_061.set
+[2025-07-06 22:17:24,847] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_062.set
+[2025-07-06 22:17:24,849] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_063.set
+[2025-07-06 22:17:24,850] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_064.set
+[2025-07-06 22:17:24,851] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_065.set
+[2025-07-06 22:17:24,852] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_066.set
+[2025-07-06 22:17:24,853] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_067.set
+[2025-07-06 22:17:24,854] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_068.set
+[2025-07-06 22:17:24,854] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_069.set
+[2025-07-06 22:17:24,855] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_070.set
+[2025-07-06 22:17:24,855] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_071.set
+[2025-07-06 22:17:24,856] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_072.set
+[2025-07-06 22:17:24,857] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_073.set
+[2025-07-06 22:17:24,859] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_074.set
+[2025-07-06 22:17:24,859] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_075.set
+[2025-07-06 22:17:24,860] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_076.set
+[2025-07-06 22:17:24,860] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_077.set
+[2025-07-06 22:17:24,876] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_078.set
+[2025-07-06 22:17:24,898] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_079.set
+[2025-07-06 22:17:24,899] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_080.set
+[2025-07-06 22:17:24,900] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_081.set
+[2025-07-06 22:17:24,901] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_082.set
+[2025-07-06 22:17:24,903] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_083.set
+[2025-07-06 22:17:24,936] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_084.set
+[2025-07-06 22:17:24,999] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_085.set
+[2025-07-06 22:17:25,108] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_086.set
+[2025-07-06 22:17:25,109] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_087.set
+[2025-07-06 22:17:25,118] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_088.set
+[2025-07-06 22:17:25,119] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_089.set
+[2025-07-06 22:17:25,131] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_090.set
+[2025-07-06 22:17:25,136] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_091.set
+[2025-07-06 22:17:25,137] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_092.set
+[2025-07-06 22:17:25,138] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_093.set
+[2025-07-06 22:17:25,139] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_094.set
+[2025-07-06 22:17:25,139] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_095.set
+[2025-07-06 22:17:25,140] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_096.set
+[2025-07-06 22:17:25,140] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_097.set
+[2025-07-06 22:17:25,142] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_098.set
+[2025-07-06 22:17:25,149] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_099.set
+[2025-07-06 22:17:25,188] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_100.set
+[2025-07-06 22:17:25,189] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_101.set
+[2025-07-06 22:17:25,191] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_102.set
+[2025-07-06 22:17:25,192] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_103.set
+[2025-07-06 22:17:25,193] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_104.set
+[2025-07-06 22:17:25,194] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_105.set
+[2025-07-06 22:17:25,196] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_106.set
+[2025-07-06 22:17:25,199] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_107.set
+[2025-07-06 22:17:25,202] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_108.set
+[2025-07-06 22:17:25,203] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_109.set
+[2025-07-06 22:17:25,204] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_110.set
+[2025-07-06 22:17:25,209] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_111.set
+[2025-07-06 22:17:25,211] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_112.set
+[2025-07-06 22:17:25,211] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_113.set
+[2025-07-06 22:17:25,212] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_114.set
+[2025-07-06 22:17:25,213] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_115.set
+[2025-07-06 22:17:25,242] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_116.set
+[2025-07-06 22:17:25,243] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_117.set
+[2025-07-06 22:17:25,244] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_118.set
+[2025-07-06 22:17:25,245] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_119.set
+[2025-07-06 22:17:25,246] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_120.set
+[2025-07-06 22:17:25,248] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_121.set
+[2025-07-06 22:17:25,249] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_122.set
+[2025-07-06 22:17:25,253] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_123.set
+[2025-07-06 22:17:25,254] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_124.set
+[2025-07-06 22:17:25,256] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_125.set
+[2025-07-06 22:17:25,257] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_126.set
+[2025-07-06 22:17:25,258] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_127.set
+[2025-07-06 22:17:25,259] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_128.set
+[2025-07-06 22:17:25,260] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_129.set
+[2025-07-06 22:17:25,261] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_130.set
+[2025-07-06 22:17:25,262] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_131.set
+[2025-07-06 22:17:25,263] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_132.set
+[2025-07-06 22:17:25,266] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_133.set
+[2025-07-06 22:17:25,271] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_134.set
+[2025-07-06 22:17:25,272] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_135.set
+[2025-07-06 22:17:25,273] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_136.set
+[2025-07-06 22:17:25,274] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_137.set
+[2025-07-06 22:17:25,275] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_138.set
+[2025-07-06 22:17:25,471] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_139.set
+[2025-07-06 22:17:25,632] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_140.set
+[2025-07-06 22:17:25,636] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_141.set
+[2025-07-06 22:17:25,636] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_142.set
+[2025-07-06 22:17:25,639] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_143.set
+[2025-07-06 22:17:25,641] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_144.set
+[2025-07-06 22:17:25,643] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_145.set
+[2025-07-06 22:17:25,763] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_146.set
+[2025-07-06 22:17:25,788] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_147.set
+[2025-07-06 22:17:25,789] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_148.set
+[2025-07-06 22:17:25,790] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_149.set
+[2025-07-06 22:17:25,791] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_150.set
+[2025-07-06 22:17:25,792] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_151.set
+[2025-07-06 22:17:25,793] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_152.set
+[2025-07-06 22:17:25,794] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_153.set
+[2025-07-06 22:17:25,795] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_154.set
+[2025-07-06 22:17:25,796] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_155.set
+[2025-07-06 22:17:25,797] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_156.set
+[2025-07-06 22:17:25,799] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_157.set
+[2025-07-06 22:17:25,800] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_158.set
+[2025-07-06 22:17:25,801] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_159.set
+[2025-07-06 22:17:25,802] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_160.set
+[2025-07-06 22:17:25,803] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_161.set
+[2025-07-06 22:17:25,804] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_162.set
+[2025-07-06 22:17:25,837] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_163.set
+[2025-07-06 22:17:25,838] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_164.set
+[2025-07-06 22:17:25,839] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_165.set
+[2025-07-06 22:17:25,840] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_166.set
+[2025-07-06 22:17:25,840] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_167.set
+[2025-07-06 22:17:25,842] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_168.set
+[2025-07-06 22:17:25,844] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_169.set
+[2025-07-06 22:17:25,844] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_170.set
+[2025-07-06 22:17:25,845] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_171.set
+[2025-07-06 22:17:25,847] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_172.set
+[2025-07-06 22:17:25,849] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_173.set
+[2025-07-06 22:17:25,850] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_174.set
+[2025-07-06 22:17:25,851] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_175.set
+[2025-07-06 22:17:25,851] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_176.set
+[2025-07-06 22:17:25,852] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_177.set
+[2025-07-06 22:17:25,853] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_178.set
+[2025-07-06 22:17:25,855] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_179.set
+[2025-07-06 22:17:25,856] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_180.set
+[2025-07-06 22:17:25,857] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_181.set
+[2025-07-06 22:17:25,857] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_182.set
+[2025-07-06 22:17:25,858] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_183.set
+[2025-07-06 22:17:25,858] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_184.set
+[2025-07-06 22:17:25,859] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_185.set
+[2025-07-06 22:17:25,860] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_186.set
+[2025-07-06 22:17:25,864] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_187.set
+[2025-07-06 22:17:25,865] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_188.set
+[2025-07-06 22:17:25,866] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_189.set
+[2025-07-06 22:17:25,866] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_190.set
+[2025-07-06 22:17:25,867] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_191.set
+[2025-07-06 22:17:25,868] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_192.set
+[2025-07-06 22:17:25,869] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_193.set
+[2025-07-06 22:17:25,870] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_194.set
+[2025-07-06 22:17:25,870] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_195.set
+[2025-07-06 22:17:25,871] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_196.set
+[2025-07-06 22:17:25,891] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_197.set
+[2025-07-06 22:17:25,905] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_198.set
+[2025-07-06 22:17:25,907] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_199.set
+[2025-07-06 22:17:25,907] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_200.set
+[2025-07-06 22:17:25,908] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_201.set
+[2025-07-06 22:17:25,909] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_202.set
+[2025-07-06 22:17:25,910] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_203.set
+[2025-07-06 22:17:25,910] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_204.set
+[2025-07-06 22:17:25,912] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_205.set
+[2025-07-06 22:17:25,912] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_206.set
+[2025-07-06 22:17:25,913] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_207.set
+[2025-07-06 22:17:25,914] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_208.set
+[2025-07-06 22:17:25,915] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_209.set
+[2025-07-06 22:17:25,918] INFO: Deleted old setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_210.set
+[2025-07-06 22:17:25,918] INFO: Using optimization CSV: XAUUSD_M15_optimization.csv
+[2025-07-06 22:17:26,115] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_001.set | Updated: 
+[2025-07-06 22:17:26,117] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_001.set | Updated: 
+[2025-07-06 22:17:26,119] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_002.set | Updated: 
+[2025-07-06 22:17:26,127] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_002.set | Updated: 
+[2025-07-06 22:17:26,130] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_003.set | Updated: 
+[2025-07-06 22:17:26,132] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_003.set | Updated: 
+[2025-07-06 22:17:26,134] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_004.set | Updated: 
+[2025-07-06 22:17:26,136] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_004.set | Updated: 
+[2025-07-06 22:17:26,138] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_005.set | Updated: 
+[2025-07-06 22:17:26,139] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_005.set | Updated: 
+[2025-07-06 22:17:26,144] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_006.set | Updated: 
+[2025-07-06 22:17:26,146] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_006.set | Updated: 
+[2025-07-06 22:17:26,148] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_007.set | Updated: 
+[2025-07-06 22:17:26,174] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_007.set | Updated: 
+[2025-07-06 22:17:26,176] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_008.set | Updated: 
+[2025-07-06 22:17:26,178] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_008.set | Updated: 
+[2025-07-06 22:17:26,180] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_009.set | Updated: 
+[2025-07-06 22:17:26,183] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_009.set | Updated: 
+[2025-07-06 22:17:26,185] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_010.set | Updated: 
+[2025-07-06 22:17:26,191] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_010.set | Updated: 
+[2025-07-06 22:17:26,193] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_011.set | Updated: 
+[2025-07-06 22:17:26,196] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_011.set | Updated: 
+[2025-07-06 22:17:26,199] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_012.set | Updated: 
+[2025-07-06 22:17:26,200] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_012.set | Updated: 
+[2025-07-06 22:17:26,202] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_013.set | Updated: 
+[2025-07-06 22:17:26,203] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_013.set | Updated: 
+[2025-07-06 22:17:26,206] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_014.set | Updated: 
+[2025-07-06 22:17:26,209] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_014.set | Updated: 
+[2025-07-06 22:17:26,286] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_015.set | Updated: 
+[2025-07-06 22:17:26,338] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_015.set | Updated: 
+[2025-07-06 22:17:26,348] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_016.set | Updated: 
+[2025-07-06 22:17:26,350] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_016.set | Updated: 
+[2025-07-06 22:17:26,352] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_017.set | Updated: 
+[2025-07-06 22:17:26,353] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_017.set | Updated: 
+[2025-07-06 22:17:26,354] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_018.set | Updated: 
+[2025-07-06 22:17:26,364] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_018.set | Updated: 
+[2025-07-06 22:17:26,368] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_019.set | Updated: 
+[2025-07-06 22:17:26,371] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_019.set | Updated: 
+[2025-07-06 22:17:26,374] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_020.set | Updated: 
+[2025-07-06 22:17:26,376] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_020.set | Updated: 
+[2025-07-06 22:17:26,381] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_021.set | Updated: 
+[2025-07-06 22:17:26,407] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_021.set | Updated: 
+[2025-07-06 22:17:26,409] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_022.set | Updated: 
+[2025-07-06 22:17:26,411] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_022.set | Updated: 
+[2025-07-06 22:17:26,428] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_023.set | Updated: 
+[2025-07-06 22:17:26,443] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_023.set | Updated: 
+[2025-07-06 22:17:26,663] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_024.set | Updated: 
+[2025-07-06 22:17:26,664] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_024.set | Updated: 
+[2025-07-06 22:17:26,665] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_025.set | Updated: 
+[2025-07-06 22:17:26,666] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_025.set | Updated: 
+[2025-07-06 22:17:26,667] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_026.set | Updated: 
+[2025-07-06 22:17:26,668] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_026.set | Updated: 
+[2025-07-06 22:17:26,669] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_027.set | Updated: 
+[2025-07-06 22:17:26,670] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_027.set | Updated: 
+[2025-07-06 22:17:26,671] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_028.set | Updated: 
+[2025-07-06 22:17:26,680] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_028.set | Updated: 
+[2025-07-06 22:17:26,683] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_029.set | Updated: 
+[2025-07-06 22:17:26,717] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_029.set | Updated: 
+[2025-07-06 22:17:26,718] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_030.set | Updated: 
+[2025-07-06 22:17:26,723] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_030.set | Updated: 
+[2025-07-06 22:17:26,725] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_031.set | Updated: 
+[2025-07-06 22:17:26,726] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_031.set | Updated: 
+[2025-07-06 22:17:26,728] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_032.set | Updated: 
+[2025-07-06 22:17:26,733] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_032.set | Updated: 
+[2025-07-06 22:17:26,734] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_033.set | Updated: 
+[2025-07-06 22:17:26,741] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_033.set | Updated: 
+[2025-07-06 22:17:26,754] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_034.set | Updated: 
+[2025-07-06 22:17:26,905] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_034.set | Updated: 
+[2025-07-06 22:17:26,911] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_035.set | Updated: 
+[2025-07-06 22:17:26,912] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_035.set | Updated: 
+[2025-07-06 22:17:26,919] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_036.set | Updated: 
+[2025-07-06 22:17:26,923] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_036.set | Updated: 
+[2025-07-06 22:17:26,929] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_037.set | Updated: 
+[2025-07-06 22:17:26,962] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_037.set | Updated: 
+[2025-07-06 22:17:26,998] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_038.set | Updated: 
+[2025-07-06 22:17:27,000] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_038.set | Updated: 
+[2025-07-06 22:17:27,104] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_039.set | Updated: 
+[2025-07-06 22:17:27,147] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_039.set | Updated: 
+[2025-07-06 22:17:27,148] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_040.set | Updated: 
+[2025-07-06 22:17:27,193] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_040.set | Updated: 
+[2025-07-06 22:17:27,195] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_041.set | Updated: 
+[2025-07-06 22:17:27,197] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_041.set | Updated: 
+[2025-07-06 22:17:27,199] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_042.set | Updated: 
+[2025-07-06 22:17:27,201] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_042.set | Updated: 
+[2025-07-06 22:17:27,202] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_043.set | Updated: 
+[2025-07-06 22:17:27,206] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_043.set | Updated: 
+[2025-07-06 22:17:27,243] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_044.set | Updated: 
+[2025-07-06 22:17:27,246] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_044.set | Updated: 
+[2025-07-06 22:17:27,256] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_045.set | Updated: 
+[2025-07-06 22:17:27,257] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_045.set | Updated: 
+[2025-07-06 22:17:27,259] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_046.set | Updated: 
+[2025-07-06 22:17:27,260] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_046.set | Updated: 
+[2025-07-06 22:17:27,262] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_047.set | Updated: 
+[2025-07-06 22:17:27,264] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_047.set | Updated: 
+[2025-07-06 22:17:27,374] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_048.set | Updated: 
+[2025-07-06 22:17:27,375] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_048.set | Updated: 
+[2025-07-06 22:17:27,377] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_049.set | Updated: 
+[2025-07-06 22:17:27,378] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_049.set | Updated: 
+[2025-07-06 22:17:27,379] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_050.set | Updated: 
+[2025-07-06 22:17:27,382] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_050.set | Updated: 
+[2025-07-06 22:17:27,384] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_051.set | Updated: 
+[2025-07-06 22:17:27,391] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_051.set | Updated: 
+[2025-07-06 22:17:27,425] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_052.set | Updated: 
+[2025-07-06 22:17:27,433] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_052.set | Updated: 
+[2025-07-06 22:17:27,464] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_053.set | Updated: 
+[2025-07-06 22:17:27,466] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_053.set | Updated: 
+[2025-07-06 22:17:27,467] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_054.set | Updated: 
+[2025-07-06 22:17:27,469] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_054.set | Updated: 
+[2025-07-06 22:17:27,470] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_055.set | Updated: 
+[2025-07-06 22:17:27,472] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_055.set | Updated: 
+[2025-07-06 22:17:27,473] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_056.set | Updated: 
+[2025-07-06 22:17:27,476] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_056.set | Updated: 
+[2025-07-06 22:17:27,478] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_057.set | Updated: 
+[2025-07-06 22:17:27,479] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_057.set | Updated: 
+[2025-07-06 22:17:27,482] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_058.set | Updated: 
+[2025-07-06 22:17:27,483] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_058.set | Updated: 
+[2025-07-06 22:17:27,485] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_059.set | Updated: 
+[2025-07-06 22:17:27,491] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_059.set | Updated: 
+[2025-07-06 22:17:27,557] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_060.set | Updated: 
+[2025-07-06 22:17:27,575] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_060.set | Updated: 
+[2025-07-06 22:17:27,576] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_061.set | Updated: 
+[2025-07-06 22:17:27,641] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_061.set | Updated: 
+[2025-07-06 22:17:27,645] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_062.set | Updated: 
+[2025-07-06 22:17:27,694] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_062.set | Updated: 
+[2025-07-06 22:17:27,697] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_063.set | Updated: 
+[2025-07-06 22:17:27,699] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_063.set | Updated: 
+[2025-07-06 22:17:27,701] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_064.set | Updated: 
+[2025-07-06 22:17:27,704] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_064.set | Updated: 
+[2025-07-06 22:17:27,721] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_065.set | Updated: 
+[2025-07-06 22:17:27,755] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_065.set | Updated: 
+[2025-07-06 22:17:27,765] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_066.set | Updated: 
+[2025-07-06 22:17:27,790] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_066.set | Updated: 
+[2025-07-06 22:17:27,805] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_067.set | Updated: 
+[2025-07-06 22:17:27,811] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_067.set | Updated: 
+[2025-07-06 22:17:27,812] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_068.set | Updated: 
+[2025-07-06 22:17:27,815] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_068.set | Updated: 
+[2025-07-06 22:17:27,817] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_069.set | Updated: 
+[2025-07-06 22:17:27,820] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_069.set | Updated: 
+[2025-07-06 22:17:27,823] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_070.set | Updated: 
+[2025-07-06 22:17:27,825] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_070.set | Updated: 
+[2025-07-06 22:17:27,827] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_071.set | Updated: 
+[2025-07-06 22:17:27,835] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_071.set | Updated: 
+[2025-07-06 22:17:27,872] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_072.set | Updated: 
+[2025-07-06 22:17:27,876] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_072.set | Updated: 
+[2025-07-06 22:17:27,878] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_073.set | Updated: 
+[2025-07-06 22:17:27,888] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_073.set | Updated: 
+[2025-07-06 22:17:27,891] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_074.set | Updated: 
+[2025-07-06 22:17:27,898] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_074.set | Updated: 
+[2025-07-06 22:17:27,921] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_075.set | Updated: 
+[2025-07-06 22:17:27,931] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_075.set | Updated: 
+[2025-07-06 22:17:27,942] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_076.set | Updated: 
+[2025-07-06 22:17:27,946] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_076.set | Updated: 
+[2025-07-06 22:17:27,950] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_077.set | Updated: 
+[2025-07-06 22:17:27,953] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_077.set | Updated: 
+[2025-07-06 22:17:27,959] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_078.set | Updated: 
+[2025-07-06 22:17:27,993] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_078.set | Updated: 
+[2025-07-06 22:17:28,032] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_079.set | Updated: 
+[2025-07-06 22:17:28,035] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_079.set | Updated: 
+[2025-07-06 22:17:28,099] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_080.set | Updated: 
+[2025-07-06 22:17:28,101] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_080.set | Updated: 
+[2025-07-06 22:17:28,103] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_081.set | Updated: 
+[2025-07-06 22:17:28,105] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_081.set | Updated: 
+[2025-07-06 22:17:28,106] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_082.set | Updated: 
+[2025-07-06 22:17:28,108] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_082.set | Updated: 
+[2025-07-06 22:17:28,109] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_083.set | Updated: 
+[2025-07-06 22:17:28,110] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_083.set | Updated: 
+[2025-07-06 22:17:28,117] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_084.set | Updated: 
+[2025-07-06 22:17:28,159] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_084.set | Updated: 
+[2025-07-06 22:17:28,162] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_085.set | Updated: 
+[2025-07-06 22:17:28,165] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_085.set | Updated: 
+[2025-07-06 22:17:28,167] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_086.set | Updated: 
+[2025-07-06 22:17:28,169] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_086.set | Updated: 
+[2025-07-06 22:17:28,170] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_087.set | Updated: 
+[2025-07-06 22:17:28,171] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_087.set | Updated: 
+[2025-07-06 22:17:28,173] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_088.set | Updated: 
+[2025-07-06 22:17:28,204] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_088.set | Updated: 
+[2025-07-06 22:17:28,241] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_089.set | Updated: 
+[2025-07-06 22:17:28,371] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_089.set | Updated: 
+[2025-07-06 22:17:28,378] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_090.set | Updated: 
+[2025-07-06 22:17:28,380] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_090.set | Updated: 
+[2025-07-06 22:17:28,382] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_091.set | Updated: 
+[2025-07-06 22:17:28,383] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_091.set | Updated: 
+[2025-07-06 22:17:28,385] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_092.set | Updated: 
+[2025-07-06 22:17:28,387] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_092.set | Updated: 
+[2025-07-06 22:17:28,389] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_093.set | Updated: 
+[2025-07-06 22:17:28,391] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_093.set | Updated: 
+[2025-07-06 22:17:28,393] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_094.set | Updated: 
+[2025-07-06 22:17:28,396] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_094.set | Updated: 
+[2025-07-06 22:17:28,427] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_095.set | Updated: 
+[2025-07-06 22:17:28,464] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_095.set | Updated: 
+[2025-07-06 22:17:28,473] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_096.set | Updated: 
+[2025-07-06 22:17:28,503] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_096.set | Updated: 
+[2025-07-06 22:17:28,610] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_097.set | Updated: 
+[2025-07-06 22:17:28,615] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_097.set | Updated: 
+[2025-07-06 22:17:28,639] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_098.set | Updated: 
+[2025-07-06 22:17:28,646] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_098.set | Updated: 
+[2025-07-06 22:17:28,649] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_099.set | Updated: 
+[2025-07-06 22:17:28,651] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_099.set | Updated: 
+[2025-07-06 22:17:28,652] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_100.set | Updated: 
+[2025-07-06 22:17:28,654] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_100.set | Updated: 
+[2025-07-06 22:17:28,655] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_101.set | Updated: 
+[2025-07-06 22:17:28,657] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_101.set | Updated: 
+[2025-07-06 22:17:28,658] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_102.set | Updated: 
+[2025-07-06 22:17:28,660] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_102.set | Updated: 
+[2025-07-06 22:17:28,662] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_103.set | Updated: 
+[2025-07-06 22:17:28,663] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_103.set | Updated: 
+[2025-07-06 22:17:28,664] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_104.set | Updated: 
+[2025-07-06 22:17:28,667] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_104.set | Updated: 
+[2025-07-06 22:17:28,669] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_105.set | Updated: 
+[2025-07-06 22:17:28,669] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_105.set | Updated: 
+[2025-07-06 22:17:28,677] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_106.set | Updated: 
+[2025-07-06 22:17:28,721] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_106.set | Updated: 
+[2025-07-06 22:17:28,728] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_107.set | Updated: 
+[2025-07-06 22:17:28,730] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_107.set | Updated: 
+[2025-07-06 22:17:28,734] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_108.set | Updated: 
+[2025-07-06 22:17:28,741] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_108.set | Updated: 
+[2025-07-06 22:17:28,770] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_109.set | Updated: 
+[2025-07-06 22:17:28,815] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_109.set | Updated: 
+[2025-07-06 22:17:28,846] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_110.set | Updated: 
+[2025-07-06 22:17:28,850] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_110.set | Updated: 
+[2025-07-06 22:17:28,852] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_111.set | Updated: 
+[2025-07-06 22:17:28,854] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_111.set | Updated: 
+[2025-07-06 22:17:28,855] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_112.set | Updated: 
+[2025-07-06 22:17:28,857] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_112.set | Updated: 
+[2025-07-06 22:17:28,859] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_113.set | Updated: 
+[2025-07-06 22:17:28,865] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_113.set | Updated: 
+[2025-07-06 22:17:28,867] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_114.set | Updated: 
+[2025-07-06 22:17:28,873] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_114.set | Updated: 
+[2025-07-06 22:17:28,876] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_115.set | Updated: 
+[2025-07-06 22:17:28,918] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_115.set | Updated: 
+[2025-07-06 22:17:28,920] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_116.set | Updated: 
+[2025-07-06 22:17:28,987] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_116.set | Updated: 
+[2025-07-06 22:17:29,106] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_117.set | Updated: 
+[2025-07-06 22:17:29,137] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_117.set | Updated: 
+[2025-07-06 22:17:29,171] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_118.set | Updated: 
+[2025-07-06 22:17:29,177] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_118.set | Updated: 
+[2025-07-06 22:17:29,245] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_119.set | Updated: 
+[2025-07-06 22:17:29,255] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_119.set | Updated: 
+[2025-07-06 22:17:29,260] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_120.set | Updated: 
+[2025-07-06 22:17:29,263] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_120.set | Updated: 
+[2025-07-06 22:17:29,265] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_121.set | Updated: 
+[2025-07-06 22:17:29,269] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_121.set | Updated: 
+[2025-07-06 22:17:29,273] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_122.set | Updated: 
+[2025-07-06 22:17:29,654] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_122.set | Updated: 
+[2025-07-06 22:17:29,659] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_123.set | Updated: 
+[2025-07-06 22:17:29,663] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_123.set | Updated: 
+[2025-07-06 22:17:29,666] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_124.set | Updated: 
+[2025-07-06 22:17:29,670] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_124.set | Updated: 
+[2025-07-06 22:17:29,672] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_125.set | Updated: 
+[2025-07-06 22:17:29,820] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_125.set | Updated: 
+[2025-07-06 22:17:29,821] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_126.set | Updated: 
+[2025-07-06 22:17:29,823] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_126.set | Updated: 
+[2025-07-06 22:17:29,824] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_127.set | Updated: 
+[2025-07-06 22:17:29,825] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_127.set | Updated: 
+[2025-07-06 22:17:29,827] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_128.set | Updated: 
+[2025-07-06 22:17:29,846] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_128.set | Updated: 
+[2025-07-06 22:17:29,875] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_129.set | Updated: 
+[2025-07-06 22:17:29,877] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_129.set | Updated: 
+[2025-07-06 22:17:29,879] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_130.set | Updated: 
+[2025-07-06 22:17:29,881] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_130.set | Updated: 
+[2025-07-06 22:17:29,883] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_131.set | Updated: 
+[2025-07-06 22:17:29,886] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_131.set | Updated: 
+[2025-07-06 22:17:29,924] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_132.set | Updated: 
+[2025-07-06 22:17:29,949] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_132.set | Updated: 
+[2025-07-06 22:17:29,951] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_133.set | Updated: 
+[2025-07-06 22:17:29,953] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_133.set | Updated: 
+[2025-07-06 22:17:29,959] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_134.set | Updated: 
+[2025-07-06 22:17:29,961] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_134.set | Updated: 
+[2025-07-06 22:17:29,969] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_135.set | Updated: 
+[2025-07-06 22:17:29,998] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_135.set | Updated: 
+[2025-07-06 22:17:30,000] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_136.set | Updated: 
+[2025-07-06 22:17:30,001] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_136.set | Updated: 
+[2025-07-06 22:17:30,002] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_137.set | Updated: 
+[2025-07-06 22:17:30,006] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_137.set | Updated: 
+[2025-07-06 22:17:30,007] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_138.set | Updated: 
+[2025-07-06 22:17:30,009] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_138.set | Updated: 
+[2025-07-06 22:17:30,010] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_139.set | Updated: 
+[2025-07-06 22:17:30,013] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_139.set | Updated: 
+[2025-07-06 22:17:30,014] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_140.set | Updated: 
+[2025-07-06 22:17:30,017] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_140.set | Updated: 
+[2025-07-06 22:17:30,020] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_141.set | Updated: 
+[2025-07-06 22:17:30,104] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_141.set | Updated: 
+[2025-07-06 22:17:30,241] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_142.set | Updated: 
+[2025-07-06 22:17:30,242] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_142.set | Updated: 
+[2025-07-06 22:17:30,243] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_143.set | Updated: 
+[2025-07-06 22:17:30,246] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_143.set | Updated: 
+[2025-07-06 22:17:30,249] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_144.set | Updated: 
+[2025-07-06 22:17:30,251] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_144.set | Updated: 
+[2025-07-06 22:17:30,253] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_145.set | Updated: 
+[2025-07-06 22:17:30,256] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_145.set | Updated: 
+[2025-07-06 22:17:30,262] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_146.set | Updated: 
+[2025-07-06 22:17:30,264] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_146.set | Updated: 
+[2025-07-06 22:17:30,265] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_147.set | Updated: 
+[2025-07-06 22:17:30,268] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_147.set | Updated: 
+[2025-07-06 22:17:30,281] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_148.set | Updated: 
+[2025-07-06 22:17:30,301] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_148.set | Updated: 
+[2025-07-06 22:17:30,306] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_149.set | Updated: 
+[2025-07-06 22:17:30,308] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_149.set | Updated: 
+[2025-07-06 22:17:30,309] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_150.set | Updated: 
+[2025-07-06 22:17:30,312] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_150.set | Updated: 
+[2025-07-06 22:17:30,315] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_151.set | Updated: 
+[2025-07-06 22:17:30,323] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_151.set | Updated: 
+[2025-07-06 22:17:30,384] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_152.set | Updated: 
+[2025-07-06 22:17:30,386] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_152.set | Updated: 
+[2025-07-06 22:17:30,388] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_153.set | Updated: 
+[2025-07-06 22:17:30,389] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_153.set | Updated: 
+[2025-07-06 22:17:30,390] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_154.set | Updated: 
+[2025-07-06 22:17:30,452] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_154.set | Updated: 
+[2025-07-06 22:17:30,464] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_155.set | Updated: 
+[2025-07-06 22:17:30,467] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_155.set | Updated: 
+[2025-07-06 22:17:30,470] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_156.set | Updated: 
+[2025-07-06 22:17:30,479] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_156.set | Updated: 
+[2025-07-06 22:17:30,514] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_157.set | Updated: 
+[2025-07-06 22:17:30,531] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_157.set | Updated: 
+[2025-07-06 22:17:30,545] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_158.set | Updated: 
+[2025-07-06 22:17:30,546] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_158.set | Updated: 
+[2025-07-06 22:17:30,552] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_159.set | Updated: 
+[2025-07-06 22:17:30,556] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_159.set | Updated: 
+[2025-07-06 22:17:30,606] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_160.set | Updated: 
+[2025-07-06 22:17:30,614] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_160.set | Updated: 
+[2025-07-06 22:17:30,620] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_161.set | Updated: 
+[2025-07-06 22:17:30,658] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_161.set | Updated: 
+[2025-07-06 22:17:30,661] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_162.set | Updated: 
+[2025-07-06 22:17:30,669] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_162.set | Updated: 
+[2025-07-06 22:17:30,672] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_163.set | Updated: 
+[2025-07-06 22:17:30,683] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_163.set | Updated: 
+[2025-07-06 22:17:30,715] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_164.set | Updated: 
+[2025-07-06 22:17:30,719] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_164.set | Updated: 
+[2025-07-06 22:17:30,722] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_165.set | Updated: 
+[2025-07-06 22:17:30,740] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_165.set | Updated: 
+[2025-07-06 22:17:30,769] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_166.set | Updated: 
+[2025-07-06 22:17:30,904] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_166.set | Updated: 
+[2025-07-06 22:17:30,910] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_167.set | Updated: 
+[2025-07-06 22:17:30,920] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_167.set | Updated: 
+[2025-07-06 22:17:30,922] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_168.set | Updated: 
+[2025-07-06 22:17:30,925] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_168.set | Updated: 
+[2025-07-06 22:17:30,934] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_169.set | Updated: 
+[2025-07-06 22:17:30,966] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_169.set | Updated: 
+[2025-07-06 22:17:31,073] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_170.set | Updated: 
+[2025-07-06 22:17:31,091] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_170.set | Updated: 
+[2025-07-06 22:17:31,094] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_171.set | Updated: 
+[2025-07-06 22:17:31,095] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_171.set | Updated: 
+[2025-07-06 22:17:31,096] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_172.set | Updated: 
+[2025-07-06 22:17:31,098] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_172.set | Updated: 
+[2025-07-06 22:17:31,100] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_173.set | Updated: 
+[2025-07-06 22:17:31,102] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_173.set | Updated: 
+[2025-07-06 22:17:31,120] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_174.set | Updated: 
+[2025-07-06 22:17:31,123] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_174.set | Updated: 
+[2025-07-06 22:17:31,153] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_175.set | Updated: 
+[2025-07-06 22:17:31,169] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_175.set | Updated: 
+[2025-07-06 22:17:31,173] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_176.set | Updated: 
+[2025-07-06 22:17:31,180] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_176.set | Updated: 
+[2025-07-06 22:17:31,182] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_177.set | Updated: 
+[2025-07-06 22:17:31,211] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_177.set | Updated: 
+[2025-07-06 22:17:31,220] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_178.set | Updated: 
+[2025-07-06 22:17:31,223] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_178.set | Updated: 
+[2025-07-06 22:17:31,226] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_179.set | Updated: 
+[2025-07-06 22:17:31,229] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_179.set | Updated: 
+[2025-07-06 22:17:31,241] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_180.set | Updated: 
+[2025-07-06 22:17:31,284] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_180.set | Updated: 
+[2025-07-06 22:17:31,285] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_181.set | Updated: 
+[2025-07-06 22:17:31,287] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_181.set | Updated: 
+[2025-07-06 22:17:31,288] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_182.set | Updated: 
+[2025-07-06 22:17:31,291] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_182.set | Updated: 
+[2025-07-06 22:17:31,292] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_183.set | Updated: 
+[2025-07-06 22:17:31,294] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_183.set | Updated: 
+[2025-07-06 22:17:31,296] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_184.set | Updated: 
+[2025-07-06 22:17:31,345] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_184.set | Updated: 
+[2025-07-06 22:17:31,354] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_185.set | Updated: 
+[2025-07-06 22:17:31,357] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_185.set | Updated: 
+[2025-07-06 22:17:31,358] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_186.set | Updated: 
+[2025-07-06 22:17:31,360] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_186.set | Updated: 
+[2025-07-06 22:17:31,362] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_187.set | Updated: 
+[2025-07-06 22:17:31,364] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_187.set | Updated: 
+[2025-07-06 22:17:31,367] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_188.set | Updated: 
+[2025-07-06 22:17:31,370] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_188.set | Updated: 
+[2025-07-06 22:17:31,376] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_189.set | Updated: 
+[2025-07-06 22:17:31,399] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_189.set | Updated: 
+[2025-07-06 22:17:31,401] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_190.set | Updated: 
+[2025-07-06 22:17:31,404] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_190.set | Updated: 
+[2025-07-06 22:17:31,407] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_191.set | Updated: 
+[2025-07-06 22:17:31,408] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_191.set | Updated: 
+[2025-07-06 22:17:31,410] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_192.set | Updated: 
+[2025-07-06 22:17:31,413] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_192.set | Updated: 
+[2025-07-06 22:17:31,415] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_193.set | Updated: 
+[2025-07-06 22:17:31,420] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_193.set | Updated: 
+[2025-07-06 22:17:31,425] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_194.set | Updated: 
+[2025-07-06 22:17:31,430] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_194.set | Updated: 
+[2025-07-06 22:17:31,569] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_195.set | Updated: 
+[2025-07-06 22:17:31,571] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_195.set | Updated: 
+[2025-07-06 22:17:31,573] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_196.set | Updated: 
+[2025-07-06 22:17:31,575] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_196.set | Updated: 
+[2025-07-06 22:17:31,577] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_197.set | Updated: 
+[2025-07-06 22:17:31,579] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_197.set | Updated: 
+[2025-07-06 22:17:31,585] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_198.set | Updated: 
+[2025-07-06 22:17:31,589] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_198.set | Updated: 
+[2025-07-06 22:17:31,596] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_199.set | Updated: 
+[2025-07-06 22:17:31,669] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_199.set | Updated: 
+[2025-07-06 22:17:32,116] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_200.set | Updated: 
+[2025-07-06 22:17:32,119] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_200.set | Updated: 
+[2025-07-06 22:17:32,121] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_201.set | Updated: 
+[2025-07-06 22:17:32,122] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_201.set | Updated: 
+[2025-07-06 22:17:32,185] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_202.set | Updated: 
+[2025-07-06 22:17:32,291] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_202.set | Updated: 
+[2025-07-06 22:17:32,293] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_203.set | Updated: 
+[2025-07-06 22:17:32,295] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_203.set | Updated: 
+[2025-07-06 22:17:32,304] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_204.set | Updated: 
+[2025-07-06 22:17:32,307] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_204.set | Updated: 
+[2025-07-06 22:17:32,308] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_205.set | Updated: 
+[2025-07-06 22:17:32,310] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_205.set | Updated: 
+[2025-07-06 22:17:32,346] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_206.set | Updated: 
+[2025-07-06 22:17:32,358] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_206.set | Updated: 
+[2025-07-06 22:17:32,360] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_207.set | Updated: 
+[2025-07-06 22:17:32,400] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_207.set | Updated: 
+[2025-07-06 22:17:32,410] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_208.set | Updated: 
+[2025-07-06 22:17:32,414] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_208.set | Updated: 
+[2025-07-06 22:17:32,416] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_209.set | Updated: 
+[2025-07-06 22:17:32,418] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_209.set | Updated: 
+[2025-07-06 22:17:32,421] INFO: Saved setfile: c:\EA_Validation_Project\setfiles\XAUUSD_M15_set_210.set | Updated: 
+[2025-07-06 22:17:32,461] INFO: Saved setfile: C:/MT5_Backtest/MQL5/Profiles/Tester\XAUUSD_M15_set_210.set | Updated: 
+[2025-07-06 22:17:32,604] INFO: Done. Saved 420 .set files to:
+- c:\EA_Validation_Project\setfiles
+- C:/MT5_Backtest/MQL5/Profiles/Tester
+[2025-07-06 22:17:32,606] INFO: Survivor log saved to: c:\EA_Validation_Project\results\survivors_list.csv
+[2025-07-06 22:17:32,607] INFO: Summary: 210 survivors, 420 setfiles created, 0 errors.

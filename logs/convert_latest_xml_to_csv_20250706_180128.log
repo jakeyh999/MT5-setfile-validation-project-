@@ -1,0 +1,3 @@
+[2025-07-06 18:01:28,760] INFO: Logging to c:\EA_Validation_Project\logs\convert_latest_xml_to_csv_20250706_180128.log
+[2025-07-06 18:01:28,761] INFO: Converting latest XML: ReportOptimizer-52233948.xml
+[2025-07-06 18:02:03,812] INFO: Saved converted CSV to: processed_csv\XAUUSD_M15_optimization.csv

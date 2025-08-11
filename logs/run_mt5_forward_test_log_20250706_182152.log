@@ -1,0 +1,5 @@
+2025-07-06 18:21:57,713 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 18:21:57,771 - INFO - MetaTrader5 initialized successfully.
+2025-07-06 18:21:57,793 - INFO - Downloading tick data for XAUUSD from 2024-12-22 00:00:00 to 2025-07-06 18:21:57.793481.
+2025-07-06 18:22:17,417 - ERROR - Failed to download tick data: -10002 - IPC recv failed
+2025-07-06 18:22:17,883 - INFO - MetaTrader5 shutdown successfully.
